@@ -26,4 +26,8 @@ Four-lesson case study on multi-agent planning, reflection, and evaluation:
 3. [User Feedback-Aware Reflection Mechanism](./course/modules/02-macrs/03-user-feedback-aware-reflection-mechanism.md)
 4. [Evaluating MACRS: Performance and Insights](./course/modules/02-macrs/04-evaluating-macrs-performance-and-insights.md)
 
+## Exercise
+
+- [Thought Exercise: Design a Smart Parking Agent System](./course/thought-exercise-design-a-smart-parking-agent-system.md)
+
 More modules will be added as content is provided.

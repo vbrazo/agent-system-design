@@ -24,4 +24,10 @@ Case study applying Module 1 principles to goal-directed conversational recommen
 3. User Feedback-Aware Reflection Mechanism
 4. Evaluating MACRS: Performance and Insights
 
+## Exercises
+
+### [Thought Exercise: Design a Smart Parking Agent System](./thought-exercise-design-a-smart-parking-agent-system.md)
+
+Apply Module 1 principles to evolve a reactive microservices parking platform into a multi-agent system—covering orchestration, agent internal logic, patterns, and guardrails.
+
 More modules will be added as content is provided.

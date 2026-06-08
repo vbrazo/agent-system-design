@@ -163,4 +163,4 @@ MACRS demonstrates that multi-agent planning plus feedback-aware reflection can 
 
 **Previous:** [← User Feedback-Aware Reflection Mechanism](./03-user-feedback-aware-reflection-mechanism.md) · **Back to module:** [MACRS Overview](./README.md)
 
-**Related:** [Module 1: Agent Design Fundamentals](../01-agent-design-fundamentals/README.md)
+**Related:** [Module 1: Agent Design Fundamentals](../01-agent-design-fundamentals/README.md) · **Exercise:** [Design a Smart Parking Agent System](../../thought-exercise-design-a-smart-parking-agent-system.md)
