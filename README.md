@@ -17,4 +17,13 @@ Six lessons covering agents, architecture, memory, orchestration, safety, and pr
 5. [Guardrails and Human Oversight](./course/modules/01-agent-design-fundamentals/05-guardrails-and-human-oversight.md)
 6. [Challenges and Design Strategies](./course/modules/01-agent-design-fundamentals/06-challenges-and-design-strategies.md)
 
+## Module 2: Multi-Agent Conversational Recommender System (MACRS)
+
+Four-lesson case study on multi-agent planning, reflection, and evaluation:
+
+1. [Introduction to MACRS and the Design Challenge](./course/modules/02-macrs/01-introduction-to-macrs-and-design-challenge.md)
+2. [Multi-Agent Act Planning Framework](./course/modules/02-macrs/02-multi-agent-act-planning-framework.md)
+3. [User Feedback-Aware Reflection Mechanism](./course/modules/02-macrs/03-user-feedback-aware-reflection-mechanism.md)
+4. [Evaluating MACRS: Performance and Insights](./course/modules/02-macrs/04-evaluating-macrs-performance-and-insights.md)
+
 More modules will be added as content is provided.

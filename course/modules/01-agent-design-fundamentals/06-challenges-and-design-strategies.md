@@ -217,4 +217,6 @@ Before deploying to production, consider:
 
 This checklist closes **Module 1: Agent Design Fundamentals**. You now have a foundation for designing agentic systems—from first principles through production constraints.
 
+**Next module:** [Module 2: MACRS Case Study →](../02-macrs/README.md)
+
 **Previous:** [← Guardrails and Human Oversight](./05-guardrails-and-human-oversight.md) · **Back to module overview:** [Agent Design Fundamentals](./README.md)

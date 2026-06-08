@@ -15,4 +15,13 @@ Foundational concepts for anyone building LLM-powered agents in production:
 5. Guardrails and Human Oversight
 6. Challenges and Design Strategies
 
+### [Module 2: Multi-Agent Conversational Recommender System (MACRS)](./modules/02-macrs/README.md)
+
+Case study applying Module 1 principles to goal-directed conversational recommendation:
+
+1. Introduction to MACRS and the Design Challenge
+2. Multi-Agent Act Planning Framework
+3. User Feedback-Aware Reflection Mechanism
+4. Evaluating MACRS: Performance and Insights
+
 More modules will be added as content is provided.
