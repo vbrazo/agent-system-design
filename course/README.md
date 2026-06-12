@@ -1,6 +1,6 @@
-# Agent System Design Course
+# Agent System Design
 
-A practical course on designing reliable, scalable, and trustworthy agentic AI systems.
+A practical tutorial on designing reliable, scalable, and trustworthy agentic AI systems.
 
 ## Modules
 
