@@ -1,10 +1,10 @@
 # Agent System Design
 
-Course materials for designing reliable, scalable, and trustworthy agentic AI systems.
+Designing reliable, scalable, and trustworthy agentic AI systems.
 
 ## Start here
 
-→ **[Course overview](./course/README.md)**
+→ **[Overview](./course/README.md)**
 
 ## Module 1: Agent Design Fundamentals
 
